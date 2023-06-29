@@ -4,12 +4,6 @@ Este repositório foi criado com o objetivo de auxiliar a comunidade de desenvol
 
 Nosso foco não é fornecer documentação de linguagens de programação, mas sim soluções e  para os desafios encontrados no desenvolvimento diário e compartilhar como você os resolveu. Para contribuir, basta criar uma branch e solicitar um pull request. Após análise, sua documentação será incluída no repositório. Fique à vontade para dar estilo próprio à sua documentação! Esperamos que este repositório possa ser útil a alguém :)
 
-# INDÍCE
+# GIT
 
-- [Git](Git/README.md)
-- [Docker](/Docker/README.md)
-- [VS Code](/VS%20Code/README.md)
-- [Java](/Java/README.md)
-- [Spring Boot](/Spring-Boot/README.md)
-- [React](/React/README.md)
-- [Vue](/Vue/README.md)
+- [Como instalar e configurar o Git Credential Manager no Linux](Como%20configurar%20Git-Credential-Manager-Core%20no%20Lin%20853404d16e734f7fa50cd5997520832e.md)
