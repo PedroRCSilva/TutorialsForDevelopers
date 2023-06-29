@@ -26,7 +26,7 @@ Em resumo, o Git-Credential-Manager é uma solução muito útil e segura para a
 
 Acesse esse link: https://github.com/git-ecosystem/git-credential-manager/releases/tag/v2.1.2
 
-Em “ComoConfigurarGitCredentialManager” clique na opção com extensão .deb. Segue um print abaixo:
+Em “Assets” clique na opção com extensão .deb. Segue um print abaixo:
 
 ![Untitled](ComoConfigurarGitCredentialManager/Untitled.png)
 
